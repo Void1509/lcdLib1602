@@ -1,0 +1,18 @@
+#######################################
+# Syntax Coloring Map For LiquidCrystal
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+lcdLib	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+lcdInit	KEYWORD2
+lcdChr	KEYWORD2
+lcdStr	KEYWORD2
+
